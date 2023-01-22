@@ -1,0 +1,14 @@
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\bin\Debug\netcoreapp3.1\01.exe
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\bin\Debug\netcoreapp3.1\01.deps.json
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\bin\Debug\netcoreapp3.1\01.runtimeconfig.json
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\bin\Debug\netcoreapp3.1\01.runtimeconfig.dev.json
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\bin\Debug\netcoreapp3.1\01.dll
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\bin\Debug\netcoreapp3.1\01.pdb
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\obj\Debug\netcoreapp3.1\01.csproj.AssemblyReference.cache
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\obj\Debug\netcoreapp3.1\01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\obj\Debug\netcoreapp3.1\01.AssemblyInfoInputs.cache
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\obj\Debug\netcoreapp3.1\01.AssemblyInfo.cs
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\obj\Debug\netcoreapp3.1\01.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\obj\Debug\netcoreapp3.1\01.dll
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\obj\Debug\netcoreapp3.1\01.pdb
+C:\Users\Teodor Dichev\source\repos\TheRealExam\01\obj\Debug\netcoreapp3.1\01.genruntimeconfig.cache
