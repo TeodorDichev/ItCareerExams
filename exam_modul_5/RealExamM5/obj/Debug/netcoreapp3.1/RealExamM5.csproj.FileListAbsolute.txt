@@ -1,0 +1,14 @@
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\bin\Debug\netcoreapp3.1\RealExamM5.exe
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\bin\Debug\netcoreapp3.1\RealExamM5.deps.json
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\bin\Debug\netcoreapp3.1\RealExamM5.runtimeconfig.json
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\bin\Debug\netcoreapp3.1\RealExamM5.runtimeconfig.dev.json
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\bin\Debug\netcoreapp3.1\RealExamM5.dll
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\bin\Debug\netcoreapp3.1\RealExamM5.pdb
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\obj\Debug\netcoreapp3.1\RealExamM5.csproj.AssemblyReference.cache
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\obj\Debug\netcoreapp3.1\RealExamM5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\obj\Debug\netcoreapp3.1\RealExamM5.AssemblyInfoInputs.cache
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\obj\Debug\netcoreapp3.1\RealExamM5.AssemblyInfo.cs
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\obj\Debug\netcoreapp3.1\RealExamM5.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\obj\Debug\netcoreapp3.1\RealExamM5.dll
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\obj\Debug\netcoreapp3.1\RealExamM5.pdb
+C:\Users\Teodor Dichev\source\repos\RealExamM5\RealExamM5\obj\Debug\netcoreapp3.1\RealExamM5.genruntimeconfig.cache

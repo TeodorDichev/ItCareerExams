@@ -1,0 +1,16 @@
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\bin\Debug\net5.0\M4EXAM.exe
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\bin\Debug\net5.0\M4EXAM.deps.json
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\bin\Debug\net5.0\M4EXAM.runtimeconfig.json
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\bin\Debug\net5.0\M4EXAM.runtimeconfig.dev.json
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\bin\Debug\net5.0\M4EXAM.dll
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\bin\Debug\net5.0\ref\M4EXAM.dll
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\bin\Debug\net5.0\M4EXAM.pdb
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\obj\Debug\net5.0\M4EXAM.csproj.AssemblyReference.cache
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\obj\Debug\net5.0\M4EXAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\obj\Debug\net5.0\M4EXAM.AssemblyInfoInputs.cache
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\obj\Debug\net5.0\M4EXAM.AssemblyInfo.cs
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\obj\Debug\net5.0\M4EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\obj\Debug\net5.0\M4EXAM.dll
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\obj\Debug\net5.0\ref\M4EXAM.dll
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\obj\Debug\net5.0\M4EXAM.pdb
+C:\Users\Teodor Dichev\source\repos\M4EXAM\M4EXAM\obj\Debug\net5.0\M4EXAM.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\bin\Debug\net5.0\M3 EXAM.exe
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\bin\Debug\net5.0\M3 EXAM.deps.json
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\bin\Debug\net5.0\M3 EXAM.runtimeconfig.json
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\bin\Debug\net5.0\M3 EXAM.runtimeconfig.dev.json
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\bin\Debug\net5.0\M3 EXAM.dll
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\bin\Debug\net5.0\ref\M3 EXAM.dll
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\bin\Debug\net5.0\M3 EXAM.pdb
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\obj\Debug\net5.0\M3 EXAM.csproj.AssemblyReference.cache
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\obj\Debug\net5.0\M3 EXAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\obj\Debug\net5.0\M3 EXAM.AssemblyInfoInputs.cache
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\obj\Debug\net5.0\M3 EXAM.AssemblyInfo.cs
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\obj\Debug\net5.0\M3 EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\obj\Debug\net5.0\M3 EXAM.dll
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\obj\Debug\net5.0\ref\M3 EXAM.dll
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\obj\Debug\net5.0\M3 EXAM.pdb
+C:\Users\Teodor Dichev\source\repos\M3 EXAM\M3 EXAM\obj\Debug\net5.0\M3 EXAM.genruntimeconfig.cache

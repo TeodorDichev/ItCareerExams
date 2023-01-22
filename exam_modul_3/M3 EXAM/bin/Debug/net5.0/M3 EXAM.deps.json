@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M3 EXAM/1.0.0": {
+        "runtime": {
+          "M3 EXAM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M3 EXAM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
