@@ -1,0 +1,14 @@
+D:\Repos\Exams\exam_modul_10\Problem1\bin\Debug\net6.0\Problem1.exe
+D:\Repos\Exams\exam_modul_10\Problem1\bin\Debug\net6.0\Problem1.deps.json
+D:\Repos\Exams\exam_modul_10\Problem1\bin\Debug\net6.0\Problem1.runtimeconfig.json
+D:\Repos\Exams\exam_modul_10\Problem1\bin\Debug\net6.0\Problem1.dll
+D:\Repos\Exams\exam_modul_10\Problem1\bin\Debug\net6.0\Problem1.pdb
+D:\Repos\Exams\exam_modul_10\Problem1\obj\Debug\net6.0\Problem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Exams\exam_modul_10\Problem1\obj\Debug\net6.0\Problem1.AssemblyInfoInputs.cache
+D:\Repos\Exams\exam_modul_10\Problem1\obj\Debug\net6.0\Problem1.AssemblyInfo.cs
+D:\Repos\Exams\exam_modul_10\Problem1\obj\Debug\net6.0\Problem1.csproj.CoreCompileInputs.cache
+D:\Repos\Exams\exam_modul_10\Problem1\obj\Debug\net6.0\Problem1.dll
+D:\Repos\Exams\exam_modul_10\Problem1\obj\Debug\net6.0\refint\Problem1.dll
+D:\Repos\Exams\exam_modul_10\Problem1\obj\Debug\net6.0\Problem1.pdb
+D:\Repos\Exams\exam_modul_10\Problem1\obj\Debug\net6.0\Problem1.genruntimeconfig.cache
+D:\Repos\Exams\exam_modul_10\Problem1\obj\Debug\net6.0\ref\Problem1.dll
